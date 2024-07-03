@@ -1,4 +1,4 @@
-# Medical Image Classification using DenseNet121
+# X-RAY Image Classification using DenseNet121
 This project classifies medical images into various categories using a convolutional neural network (DenseNet121). The dataset consists of medical images categorized into 15 different classes. This README provides instructions on setting up the project, understanding the code, and running the model.
 
 ## Table of Contents
